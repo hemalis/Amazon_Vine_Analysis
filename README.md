@@ -14,6 +14,8 @@ In another deliverable, performed analysis to figure out if there is bias toward
 
 Below are the results for the analysis performed on Deliverable 2:
 
+![image](https://github.com/hemalis/Amazon_Vine_Analysis/blob/main/images/image.png?raw=true)
+
 - Paid Total reviews: 1,266
 - Paid 5-star reviews: 432
 - Unpaid Total reviews: 61,849
